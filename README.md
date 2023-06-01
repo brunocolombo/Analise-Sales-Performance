@@ -137,6 +137,16 @@ Office Supplies	119.38
 Technology	456.40
 ```
 
+## Insights retirados da análise:
+
+**1 - Apesar de ser só 18% das vendas totais,Tecnologia é responsavél por 36%($827mil) da Receita Total, tendo também um Valor Médio de Venda de $456, maior que a Média geral de $230.**
+
+**2 - O Q4 foi o melhor período de vendas em todos os anos, que pode ser atribuido a ele ter datas fortes para o comércio como Natal e Black Friday.**
+
+**3 - Os estados que mais trouxeram receitas foram a California e Nova York.**
+  
+**4 -  O estado da Flórida se mostrou muito forte nas vendas do segmento de Home Office, principalmente no ano de 2015(Top 1).**
+  
 ## Dashboard Power BI
 ### Com o Power BI, e linguagem DAX utilizaremos gráficos interativos para melhor analisar  e visualizar os dados, e retirar os Insights necessários para responder as perguntas.
 
