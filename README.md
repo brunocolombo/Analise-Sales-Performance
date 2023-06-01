@@ -52,6 +52,8 @@ load data local infile "C:\\Users\\bruno\\Documents\\Sales_datasets\\Orders.csv"
 into table orders_dataset
 FIELDS TERMINATED BY ',' ENCLOSED BY '"'
 ignore 1 rows;
+```
 
 ## Dashboard Power BI
+### Com o Power BI, e DAX utilizaremos gráficos interativos para melhor analisar  e visualizar os dados, e retirar os Insights necessários para responder as perguntas.
 
