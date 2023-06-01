@@ -26,7 +26,7 @@ A Tabela Fato, contém dados de cada ordem, como ID da Ordem, ID Produto, ID Cli
 
 As 4 Tabelas Dimensões contém: Clientes(ID Cliente; Segmento), Localização( ID Ordem; Cidade; Estado), Produtos(ID Produto; Categoria; Sub-Categoria), Frete(ID Frete; Tipo de Frete).
 
-<img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/ea4a2897-a542-475c-9b57-1a9e7d6303e5" width="30%">
+<img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/ea4a2897-a542-475c-9b57-1a9e7d6303e5" width="60%">
 
 ## Além das tabelas obtidas do Dataset, foi feita uma Tabela Calendário com DAX no Power BI.
 ![Captura de tela 2023-06-01 140045](https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/e3c563b5-e8bd-4260-99aa-9c83925bd46f)
@@ -150,12 +150,12 @@ Technology	456.40
 ## Dashboard Power BI
 ### Com o Power BI, e linguagem DAX utilizaremos gráficos interativos para melhor analisar  e visualizar os dados, e retirar os Insights necessários para responder as perguntas.
 
-<img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/59f976da-4d93-4487-8180-70e291bec25c" width="30%">
-<img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/e96643cd-c2ad-4972-a2bf-ebe536ed0d1b" width="30%">
-<img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/6f003718-bf5b-4361-92db-3106b6f7f299" width="30%">
-<img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/0b3c3198-e69e-48c0-98b5-8a29dc05c2df" width="30%">
+<img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/59f976da-4d93-4487-8180-70e291bec25c" width="40%">
+<img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/e96643cd-c2ad-4972-a2bf-ebe536ed0d1b" width="40%">
+<img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/6f003718-bf5b-4361-92db-3106b6f7f299" width="40%">
+<img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/0b3c3198-e69e-48c0-98b5-8a29dc05c2df" width="40%">
 
-Você pode acessar o Dashboard clicando em: <a href="https://app.powerbi.com/view?r=eyJrIjoiYzg5NGE4YjItMmY5MC00ZDQ1LTk3YTQtYmYxYTEyN2ZhYjMwIiwidCI6ImYxMWY0YzkwLTYzZjQtNGE3Ni1hMTVkLTU5YzZlZDQ0ZmM0MSJ9&pageName=ReportSection">Análise Sales Performance<a>.
+Você pode acessar o Dashboard clicando aqui <a href="https://app.powerbi.com/view?r=eyJrIjoiYzg5NGE4YjItMmY5MC00ZDQ1LTk3YTQtYmYxYTEyN2ZhYjMwIiwidCI6ImYxMWY0YzkwLTYzZjQtNGE3Ni1hMTVkLTU5YzZlZDQ0ZmM0MSJ9&pageName=ReportSection">Análise Sales Performance<a>.
 
 ## Algumas Medidas e coluna criadas com DAX para analisar os dados:
 ### Receita Acumulada no perído. 
