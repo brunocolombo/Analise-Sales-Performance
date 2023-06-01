@@ -145,6 +145,8 @@ Technology	456.40
 <img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/6f003718-bf5b-4361-92db-3106b6f7f299" width="30%">
 <img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/0b3c3198-e69e-48c0-98b5-8a29dc05c2df" width="30%">
 
+Você pode acessar o Dashboard clicando em: <a href="https://app.powerbi.com/view?r=eyJrIjoiYzg5NGE4YjItMmY5MC00ZDQ1LTk3YTQtYmYxYTEyN2ZhYjMwIiwidCI6ImYxMWY0YzkwLTYzZjQtNGE3Ni1hMTVkLTU5YzZlZDQ0ZmM0MSJ9&pageName=ReportSection">Análise Sales Performance<a>.
+
 ## Algumas Medidas e coluna criadas com DAX para analisar os dados:
 ### Receita Acumulada no perído. 
 <img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/4cbdf1a9-e3e7-454d-abaf-4fd3c920c6f0" width="30%">
@@ -156,8 +158,7 @@ Technology	456.40
 <img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/3cbafedb-0dd7-4112-8dc2-4f8fc058f5f1" width="30%">
 
 ### Coluna com o tempo de entrega de cada pedido.
-<img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/7ec0ff84-fc90-4d77-9847-fcfde483e5d1" width="30%">
+<img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/7ec0ff84-fc90-4d77-9847-fcfde483e5d1" width="60%">
 
-
-
-
+### Filtro dos Top 5 Estados com maior tempo de entrega em relação a média
+<img src="https://github.com/brunocolombo/Analise-Sales-Performance/assets/77849519/a9d512c6-2c39-4188-8bff-3153d4ac0362" width="60%">
